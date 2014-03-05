@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "HelloWorldComponent"
-  s.version      = "1.0.0"
+  s.version      = "v1.0.0"
   s.summary      = "This is a short description of HelloWorldComponent."
   s.homepage     = "https://github.com/sandeshpujarmindtree/pods"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
